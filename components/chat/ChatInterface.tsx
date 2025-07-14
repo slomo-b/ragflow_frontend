@@ -2,9 +2,9 @@
 
 import React, { useState, useRef, useEffect } from 'react'
 import { Send, Sparkles, Copy, Check, StopCircle } from 'lucide-react'
-import { Button } from '@/components/ui/Button'
+import { Button } from '@/components/ui/button'
 import { Textarea } from '@/components/ui/textarea'
-import { Badge } from '@/components/ui/Badge'
+import { Badge } from '@/components/ui/badge'
 import { useStore } from '@/stores/useStore'
 import { cn } from '@/lib/utils'
 
