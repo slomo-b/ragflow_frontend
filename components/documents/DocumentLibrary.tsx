@@ -27,10 +27,10 @@ import {
   ClockIcon as ClockSolidIcon,
   ExclamationTriangleIcon as ExclamationTriangleSolidIcon,
 } from '@heroicons/react/24/solid'
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/Card"
-import { Button } from "@/components/ui/Button"
-import { Input } from "@/components/ui/Input"
-import { Badge } from "@/components/ui/Badge"
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { Button } from "@/components/ui/button"
+import { Input } from "@/components/ui/input"
+import { Badge } from "@/components/ui/badge"
 import { 
   DropdownMenu, 
   DropdownMenuContent, 
