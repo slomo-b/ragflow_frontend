@@ -10,7 +10,7 @@ import {
   Menu,
   Circle
 } from 'lucide-react'
-import { Button } from '@/components/ui/Button'
+import { Button } from '@/components/ui/button'
 import { useStore } from '@/stores/useStore'
 import { cn } from '@/lib/utils'
 
